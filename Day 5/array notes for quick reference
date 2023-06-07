@@ -1,8 +1,20 @@
 Array is a data structure 
 - unlike lists it can store only integers, or same data type entities
-- int arr{6} >>> C++
+
+- int arr[6] >>> C++
  or 
-  int arr{}= new int{6} >>>Java
+  int arr[]= new int[6] >>>Java
   # creates a new array and puts garbage value in it if the array is created in main function otherwise it 
   will put all values as zero if outside main function as global variable
-- if the arr
+  
+- the maximum size of array we can define is 10^6 in main function and 10^7 as global array (outside main function)
+
+- array indexing is of 2 types in Python: 1) Positive(0 to len(array)-1)     2)Negative(-len(array) to -1(last element))
+
+- Array Traversal
+
+
+
+
+
+- Array Slicing Rules
