@@ -1,0 +1,8 @@
+Array is a data structure 
+- unlike lists it can store only integers, or same data type entities
+- int arr{6} >>> C++
+ or 
+  int arr{}= new int{6} >>>Java
+  # creates a new array and puts garbage value in it if the array is created in main function otherwise it 
+  will put all values as zero if outside main function as global variable
+- if the arr
